@@ -1,0 +1,12 @@
+{
+  "name": "theappiswow",
+  "description": "wowowow",
+  "author": "dylanksys",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dylanksys/myappiswow"
+  },
+  "dependencies": {
+    "express": "4.13.4"
+  }
+}
